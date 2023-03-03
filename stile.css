@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background-color: aqua;
+  }
+  h2{
+    color: darkgreen;
+    background-color: burlywood;
+  }
+  body{
+    color: white ;
+    background-color: black;
+  }
+  em{
+    color: orange;
+    font-variant: small-caps;
+  }
